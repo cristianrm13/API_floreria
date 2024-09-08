@@ -25,7 +25,7 @@ Esta API proporciona un conjunto de endpoints para interactuar con el catálogo 
 
 ## Requisitos
 
-- [Node.js](https://nodejs.org/) (v14 o superior)
+- [Node.js](https://nodejs.org/) (v10 o superior)
 - [MongoDB](https://www.mongodb.com/) (Instancia local o en la nube, como MongoDB Atlas)
 
 ## Configuración
